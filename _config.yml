@@ -29,7 +29,7 @@ twitter_username: VNgomai
 github_username: BobTheHobo
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
